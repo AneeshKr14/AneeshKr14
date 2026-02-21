@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Aneesh Krishnan  
+- 👋 Hi, I’m @Aneesh Krishnan
+- Snowflake + Databricks Data Engineer
+- Tools DBT, Apache airflowDAG
+- Cloud-AWS,Azure
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Python 3.12
 
 - ⚡ Fun fact: ...
-
-<!---
-AneeshKr14/AneeshKr14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm also a  Databricks Certified Data Analyst
